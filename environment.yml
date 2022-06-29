@@ -1,0 +1,23 @@
+name: spine 
+channels:
+    - anaconda
+    - conda-forge
+    - pytorch
+dependencies:
+    - pip
+    - python=3.8
+    - numpy
+    - numpy-base
+    - matplotlib
+    - matplotlib-base
+    - scipy
+    - pytorch
+    - torchvision
+    - pandas
+    - pillow
+    - seaborn
+    - tqdm
+    - pyyaml
+    - seaborn
+    - statsmodels
+    - scikit-learn
